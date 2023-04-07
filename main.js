@@ -56,7 +56,6 @@ function addButtonPressed() {
     input.value = '';
 };
 
-// const button = document.getElementsById('button');
 
 function removeToDo(toDo) {
     const toDoIndex = toDos.indexOf(toDo);
